@@ -4,7 +4,7 @@
 
 <h2>Welcome to my page!</h2>
 <p>
-  I'm Taka, Tech Lead at WeBro and Student Tutor at Cubos Academy
+  I'm Taka, Tech Lead at WeBro
 </p>
 
 <br/>
